@@ -15,3 +15,20 @@
     background-color: black;
     overflow-y: scroll;
 }
+
+input[type="file"]{
+      width: 6rem;
+    position: fixed;
+    bottom: 12rem;
+    right: 20px;
+    border: none;
+    outline: none;
+}
+
+.New_Post{
+  position: fixed;
+  margin-top: 20rem;
+  width: 4rem;
+  height: 3rem;
+  margin-left: 10rem;
+}
